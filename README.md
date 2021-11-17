@@ -2,7 +2,8 @@
 
 
 - 📖 Atualmente estou estudando HTML, CSS, JavaScript, NojeJs, ReactJs, MongoDb
-- 📫 Você pode entrar em contato comigo por: herus2019@hotmail.com
+- 📫 Você pode entrar em contato comigo por: herus2019@hotmail.com 
+- Meu Linkedin  www.linkedin.com/in/herus-macedo-449142210
 
 <div align="center">
   <a href="https://github.com/HerusMacedo">
