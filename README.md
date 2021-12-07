@@ -2,7 +2,7 @@
 
 
 - 📖 Atualmente estou estudando HTML, CSS, JavaScript, NojeJs, ReactJs, MongoDb
-- 👨‍💻 Estou no 2 Período do curso de Ciência da Computação
+- 👨‍💻 Cursando Tecnologia da Informação UFRN
 - 📫 Você pode entrar em contato comigo por: herus2019@hotmail.com 
 - Meu Linkedin  www.linkedin.com/in/herus-macedo-449142210
 
